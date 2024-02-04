@@ -1,14 +1,16 @@
-# locally_running_foundation_models_topic_outline
-
 
 
 locally_running_foundation_models_topic_outline
 
+# ~platforms
+
 ### C-Transformers
 - https://github.com/marella/ctransformers/blob/main/README.md
 
-
-# platforms
+### tflite and on-edge
+- https://github.com/huggingface/exporters
+- https://huggingface.co/docs/optimum/exporters/tflite/usage_guides/export_a_model 
+- https://github.com/huggingface/optimum-habana/blob/main/notebooks/AI_HW_Summit_2022.ipynb 
 
 
 #### 6 From https://semaphoreci.com/blog/local-llm
@@ -56,7 +58,5 @@ https://ollama.ai/
 
 
 # Questions:
-### tflite and on-edge
-- https://github.com/huggingface/exporters
-- https://huggingface.co/docs/optimum/exporters/tflite/usage_guides/export_a_model 
-- https://github.com/huggingface/optimum-habana/blob/main/notebooks/AI_HW_Summit_2022.ipynb 
+- 
+- 
