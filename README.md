@@ -56,7 +56,13 @@ https://ollama.ai/
 - 
 
 
-
 # Questions:
+
+
+# ?
 - chainlit https://docs.chainlit.io/get-started/overview 
-- 
+
+### gpt4all 
+- MIT license 
+- https://gpt4all.io/index.html 
+- https://github.com/nomic-ai/gpt4all 
